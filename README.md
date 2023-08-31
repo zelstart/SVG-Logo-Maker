@@ -30,7 +30,8 @@ If you cannot access the video using this link, you can also find it in the /ass
 MIT
 
 ## Credits
-Xpert Learning Assistant - Making the test work by removing whitespace
+Xpert Learning Assistant - Making the test work by removing whitespace.  
+didn't copy it's exact code (didn't work), but it did put me on the right path
 
 
 
