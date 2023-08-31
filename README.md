@@ -30,7 +30,7 @@ If you cannot access the video using this link, you can also find it in the /ass
 MIT
 
 ## Credits
-Xpert Learning Assistant - Code for removing whitespace from shapes.test.js results
+Xpert Learning Assistant - Making the test work by removing whitespace
 
 
 
