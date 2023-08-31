@@ -26,8 +26,6 @@ nodejs, NPM, Inquirer
 [Video of application in use](https://watch.screencastify.com/v/j3eb02VEGglVHHoxmhCz)
 If you cannot access the video using this link, you can also find it in the /assets folder.
 
-
-
 ## License
 MIT
 
