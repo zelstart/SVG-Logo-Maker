@@ -64,7 +64,7 @@ async function promptUser() {
         if (err) {
             console.log(err);
         } else {
-            console.log("Logo generated successfully.");
+            console.log("Generated logo.svg");
         }
     });
 }
